@@ -3221,6 +3221,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![SurfacedBy AI Visibility & GEO Audit MCP connector](https://glama.ai/mcp/connectors/com.surfacedby/ai-visibility/badges/score.svg)](https://glama.ai/mcp/connectors/com.surfacedby/ai-visibility)
   🔓 - Free AI visibility and GEO audit: see what AI reads on your site and whether its answers cite you.
 
+- [RankRoot](https://getrankroot.com) `https://getrankroot.com/api/mcp`
+  [![RankRoot MCP connector](https://glama.ai/mcp/connectors/io.github.zachhhhh/rankroot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zachhhhh/rankroot)
+  🔓 - Audit a site's AI visibility and AI crawler access, and generate llms.txt, robots.txt and JSON-LD fixes.
+
 - [SyncSignature Email Signatures](https://syncsignature.com/mcp/) `https://mcp.syncsignature.com/mcp`
   [![SyncSignature Email Signatures MCP connector](https://glama.ai/mcp/connectors/com.syncsignature/email-signatures/badges/score.svg)](https://glama.ai/mcp/connectors/com.syncsignature/email-signatures)
   🔐 - Manage team email signatures: teammates, groups, templates, banner campaigns and click analytics.
